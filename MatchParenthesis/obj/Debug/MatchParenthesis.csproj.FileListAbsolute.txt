@@ -1,0 +1,4 @@
+D:\Joy\EGift.Testing\MatchParenthesis\bin\Debug\MatchParenthesis.dll
+D:\Joy\EGift.Testing\MatchParenthesis\bin\Debug\MatchParenthesis.pdb
+D:\Joy\EGift.Testing\MatchParenthesis\obj\Debug\MatchParenthesis.dll
+D:\Joy\EGift.Testing\MatchParenthesis\obj\Debug\MatchParenthesis.pdb

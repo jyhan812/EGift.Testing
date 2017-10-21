@@ -1,0 +1,7 @@
+D:\Joy\EGift.Testing\EGift.Testing\bin\Debug\EGift.Testing.dll
+D:\Joy\EGift.Testing\EGift.Testing\bin\Debug\EGift.Testing.pdb
+D:\Joy\EGift.Testing\EGift.Testing\obj\Debug\EGift.Testing.dll
+D:\Joy\EGift.Testing\EGift.Testing\obj\Debug\EGift.Testing.pdb
+D:\Joy\EGift.Testing\EGift.Testing\obj\Debug\EGift.Testing.csprojResolveAssemblyReference.cache
+D:\Joy\EGift.Testing\EGift.Testing\bin\Debug\MatchParenthesis.dll
+D:\Joy\EGift.Testing\EGift.Testing\bin\Debug\MatchParenthesis.pdb
